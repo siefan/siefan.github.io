@@ -10,6 +10,6 @@ comments: no
 * 有个温柔贤惠的老婆和聪明可爱的儿子
 
 ### 欢迎交流
-* 网站：[{{ site.name }}]({{ site.url }})
-* 邮箱：[{{ site.email }}](mailto:{{ site.email }})
-* GitHub : [http://github.com/{{ site.hub }}](http://github.com/{{ site.hub }})
+* 网站: [{{ site.name }}]({{ site.url }})
+* 邮箱: [{{ site.email }}](mailto:{{ site.email }})
+* GitHub: [http://github.com/{{ site.hub }}](http://github.com/{{ site.hub }})
