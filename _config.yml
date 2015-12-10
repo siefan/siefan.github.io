@@ -1,0 +1,16 @@
+markdown: kramdown
+kramdown:
+  input: GFM     #Github Flavored Markdown
+permalink: /:categories/:title.html
+url: http://hanpine.com
+highlighter: pygments
+name: 老品 
+description: 老品 | say less and do more
+author: siefan
+email: emmeths@gmail.com
+duoshuo: niushuai
+weibo: hansug@sina.com
+hub: siefan
+safe: true
+paginate: 100
+about: "移动互联网老兵一个"
